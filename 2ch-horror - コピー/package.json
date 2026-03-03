@@ -1,0 +1,37 @@
+{
+  "name": "2ch-horror",
+  "version": "1.0.0",
+  "description": "2ch/5ch風掲示板UIで怖い話を再現するYouTube動画生成システム",
+  "main": "index.js",
+  "scripts": {
+    "generate": "npx tsx scripts/generate-audio.ts --episode",
+    "metadata": "npx tsx scripts/generate-metadata.ts --episode",
+    "render": "npx tsx scripts/render-video.ts --episode",
+    "build-episode": "npm run generate -- %1 && npm run metadata -- %1 && npm run render -- %1",
+    "studio": "npx remotion studio src/index.ts",
+    "dict:add": "npx tsx scripts/add-dictionary.ts",
+    "dict:sync": "npx tsx scripts/sync-dictionary.ts",
+    "concat": "npx tsx scripts/concat-episodes.ts",
+    "normalize": "npx tsx scripts/normalize-audio.ts",
+    "render:final": "npm run render %1 && npm run normalize -- out/%1.mp4",
+    "volume": "npx tsx scripts/adjust-volume.ts --episode"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@remotion/cli": "^4.0.419",
+    "@remotion/player": "^4.0.419",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "remotion": "^4.0.419"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.13",
+    "@types/react-dom": "^19.2.3",
+    "ffmpeg-static": "^5.3.0",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}

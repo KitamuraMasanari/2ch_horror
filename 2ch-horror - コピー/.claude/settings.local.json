@@ -1,0 +1,28 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm init:*)",
+      "Bash(npm install:*)",
+      "Bash(npm run generate:*)",
+      "Bash(npm run metadata:*)",
+      "Bash(where:*)",
+      "Bash(npx remotion:*)",
+      "Bash(curl:*)",
+      "Bash(timeout:*)",
+      "Bash(ping:*)",
+      "Bash(npm run studio:*)",
+      "Bash(npm run dict:add:*)",
+      "Bash(npm run render:*)",
+      "Bash(npx tsx:*)",
+      "Bash(dir:*)",
+      "Bash(node -e:*)",
+      "Bash(ls:*)",
+      "Bash(npx tsc:*)",
+      "Bash(npm run normalize:*)",
+      "mcp__Claude_Preview__preview_start",
+      "Bash(npm run render:final:*)",
+      "Bash(grep:*)",
+      "Bash(python3:*)"
+    ]
+  }
+}

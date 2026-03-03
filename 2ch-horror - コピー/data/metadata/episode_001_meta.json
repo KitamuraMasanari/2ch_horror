@@ -1,0 +1,449 @@
+{
+  "episodeId": "episode_001",
+  "bgm": "japanese_horror.mp3",
+  "totalDurationInFrames": 21214,
+  "fps": 30,
+  "posts": [
+    {
+      "number": 1,
+      "audioFile": "audio/episode_001/res_001.wav",
+      "audioDurationMs": 9259,
+      "startFrame": 0,
+      "durationInFrames": 293,
+      "effect": null,
+      "speakerId": 13
+    },
+    {
+      "number": 3,
+      "audioFile": "audio/episode_001/res_003.wav",
+      "audioDurationMs": 10144,
+      "startFrame": 293,
+      "durationInFrames": 319,
+      "effect": null,
+      "speakerId": 13
+    },
+    {
+      "number": 5,
+      "audioFile": "audio/episode_001/res_005.wav",
+      "audioDurationMs": 12213,
+      "startFrame": 612,
+      "durationInFrames": 381,
+      "effect": null,
+      "speakerId": 13
+    },
+    {
+      "number": 7,
+      "audioFile": "audio/episode_001/res_007.wav",
+      "audioDurationMs": 13344,
+      "startFrame": 993,
+      "durationInFrames": 416,
+      "effect": null,
+      "speakerId": 13
+    },
+    {
+      "number": 9,
+      "audioFile": "audio/episode_001/res_009.wav",
+      "audioDurationMs": 13237,
+      "startFrame": 1409,
+      "durationInFrames": 412,
+      "effect": null,
+      "speakerId": 13
+    },
+    {
+      "number": 12,
+      "audioFile": "audio/episode_001/res_012.wav",
+      "audioDurationMs": 10571,
+      "startFrame": 1821,
+      "durationInFrames": 332,
+      "effect": null,
+      "speakerId": 13
+    },
+    {
+      "number": 14,
+      "audioFile": "audio/episode_001/res_014.wav",
+      "audioDurationMs": 11936,
+      "startFrame": 2153,
+      "durationInFrames": 373,
+      "effect": null,
+      "speakerId": 13
+    },
+    {
+      "number": 17,
+      "audioFile": "audio/episode_001/res_017.wav",
+      "audioDurationMs": 15893,
+      "startFrame": 2526,
+      "durationInFrames": 492,
+      "effect": null,
+      "speakerId": 13
+    },
+    {
+      "number": 20,
+      "audioFile": "audio/episode_001/res_020.wav",
+      "audioDurationMs": 12448,
+      "startFrame": 3018,
+      "durationInFrames": 388,
+      "effect": null,
+      "speakerId": 13
+    },
+    {
+      "number": 23,
+      "audioFile": "audio/episode_001/res_023.wav",
+      "audioDurationMs": 13045,
+      "startFrame": 3406,
+      "durationInFrames": 407,
+      "effect": null,
+      "speakerId": 13
+    },
+    {
+      "number": 26,
+      "audioFile": "audio/episode_001/res_026.wav",
+      "audioDurationMs": 10379,
+      "startFrame": 3813,
+      "durationInFrames": 326,
+      "effect": null,
+      "speakerId": 13
+    },
+    {
+      "number": 30,
+      "audioFile": "audio/episode_001/res_030.wav",
+      "audioDurationMs": 9568,
+      "startFrame": 4139,
+      "durationInFrames": 302,
+      "effect": "glitch",
+      "speakerId": 13
+    },
+    {
+      "number": 34,
+      "audioFile": "audio/episode_001/res_034.wav",
+      "audioDurationMs": 11307,
+      "startFrame": 4441,
+      "durationInFrames": 354,
+      "effect": null,
+      "speakerId": 13
+    },
+    {
+      "number": 37,
+      "audioFile": "audio/episode_001/res_037.wav",
+      "audioDurationMs": 15851,
+      "startFrame": 4795,
+      "durationInFrames": 491,
+      "effect": null,
+      "speakerId": 13
+    },
+    {
+      "number": 40,
+      "audioFile": "audio/episode_001/res_040.wav",
+      "audioDurationMs": 14123,
+      "startFrame": 5286,
+      "durationInFrames": 439,
+      "effect": "glitch",
+      "speakerId": 13
+    },
+    {
+      "number": 44,
+      "audioFile": "audio/episode_001/res_044.wav",
+      "audioDurationMs": 12491,
+      "startFrame": 5725,
+      "durationInFrames": 389,
+      "effect": null,
+      "speakerId": 13
+    },
+    {
+      "number": 48,
+      "audioFile": "audio/episode_001/res_048.wav",
+      "audioDurationMs": 11883,
+      "startFrame": 6114,
+      "durationInFrames": 372,
+      "effect": null,
+      "speakerId": 13
+    },
+    {
+      "number": 52,
+      "audioFile": "audio/episode_001/res_052.wav",
+      "audioDurationMs": 16661,
+      "startFrame": 6486,
+      "durationInFrames": 515,
+      "effect": null,
+      "speakerId": 13
+    },
+    {
+      "number": 57,
+      "audioFile": "audio/episode_001/res_057.wav",
+      "audioDurationMs": 19968,
+      "startFrame": 7001,
+      "durationInFrames": 614,
+      "effect": "glitch",
+      "speakerId": 13
+    },
+    {
+      "number": 62,
+      "audioFile": "audio/episode_001/res_062.wav",
+      "audioDurationMs": 15456,
+      "startFrame": 7615,
+      "durationInFrames": 478,
+      "effect": null,
+      "speakerId": 13
+    },
+    {
+      "number": 67,
+      "audioFile": "audio/episode_001/res_067.wav",
+      "audioDurationMs": 17227,
+      "startFrame": 8093,
+      "durationInFrames": 532,
+      "effect": null,
+      "speakerId": 13
+    },
+    {
+      "number": 72,
+      "audioFile": "audio/episode_001/res_072.wav",
+      "audioDurationMs": 14187,
+      "startFrame": 8625,
+      "durationInFrames": 441,
+      "effect": null,
+      "speakerId": 13
+    },
+    {
+      "number": 78,
+      "audioFile": "audio/episode_001/res_078.wav",
+      "audioDurationMs": 18635,
+      "startFrame": 9066,
+      "durationInFrames": 574,
+      "effect": null,
+      "speakerId": 13
+    },
+    {
+      "number": 83,
+      "audioFile": "audio/episode_001/res_083.wav",
+      "audioDurationMs": 18837,
+      "startFrame": 9640,
+      "durationInFrames": 580,
+      "effect": null,
+      "speakerId": 13
+    },
+    {
+      "number": 88,
+      "audioFile": "audio/episode_001/res_088.wav",
+      "audioDurationMs": 15733,
+      "startFrame": 10220,
+      "durationInFrames": 487,
+      "effect": "redtext",
+      "speakerId": 13
+    },
+    {
+      "number": 94,
+      "audioFile": "audio/episode_001/res_094.wav",
+      "audioDurationMs": 15200,
+      "startFrame": 10707,
+      "durationInFrames": 471,
+      "effect": null,
+      "speakerId": 13
+    },
+    {
+      "number": 100,
+      "audioFile": "audio/episode_001/res_100.wav",
+      "audioDurationMs": 18251,
+      "startFrame": 11178,
+      "durationInFrames": 562,
+      "effect": null,
+      "speakerId": 13
+    },
+    {
+      "number": 107,
+      "audioFile": "audio/episode_001/res_107.wav",
+      "audioDurationMs": 18816,
+      "startFrame": 11740,
+      "durationInFrames": 580,
+      "effect": null,
+      "speakerId": 13
+    },
+    {
+      "number": 113,
+      "audioFile": "audio/episode_001/res_113.wav",
+      "audioDurationMs": 15968,
+      "startFrame": 12320,
+      "durationInFrames": 494,
+      "effect": "glitch",
+      "speakerId": 13
+    },
+    {
+      "number": 120,
+      "audioFile": "audio/episode_001/res_120.wav",
+      "audioDurationMs": 13515,
+      "startFrame": 12814,
+      "durationInFrames": 420,
+      "effect": null,
+      "speakerId": 13
+    },
+    {
+      "number": 127,
+      "audioFile": "audio/episode_001/res_127.wav",
+      "audioDurationMs": 15765,
+      "startFrame": 13234,
+      "durationInFrames": 488,
+      "effect": "redtext",
+      "speakerId": 13
+    },
+    {
+      "number": 135,
+      "audioFile": "audio/episode_001/res_135.wav",
+      "audioDurationMs": 10987,
+      "startFrame": 13722,
+      "durationInFrames": 375,
+      "effect": "redflash",
+      "speakerId": 13
+    },
+    {
+      "number": 143,
+      "audioFile": "audio/episode_001/res_143.wav",
+      "audioDurationMs": 4779,
+      "startFrame": 14097,
+      "durationInFrames": 158,
+      "effect": null,
+      "speakerId": 13
+    },
+    {
+      "number": 149,
+      "audioFile": "audio/episode_001/res_149.wav",
+      "audioDurationMs": 14357,
+      "startFrame": 14255,
+      "durationInFrames": 446,
+      "effect": null,
+      "speakerId": 13
+    },
+    {
+      "number": 156,
+      "audioFile": "audio/episode_001/res_156.wav",
+      "audioDurationMs": 11136,
+      "startFrame": 14701,
+      "durationInFrames": 349,
+      "effect": "redtext",
+      "speakerId": 13
+    },
+    {
+      "number": 164,
+      "audioFile": "audio/episode_001/res_164.wav",
+      "audioDurationMs": 12405,
+      "startFrame": 15050,
+      "durationInFrames": 387,
+      "effect": null,
+      "speakerId": 13
+    },
+    {
+      "number": 172,
+      "audioFile": "audio/episode_001/res_172.wav",
+      "audioDurationMs": 13173,
+      "startFrame": 15437,
+      "durationInFrames": 410,
+      "effect": "glitch",
+      "speakerId": 13
+    },
+    {
+      "number": 181,
+      "audioFile": "audio/episode_001/res_181.wav",
+      "audioDurationMs": 8661,
+      "startFrame": 15847,
+      "durationInFrames": 305,
+      "effect": "redflash",
+      "speakerId": 13
+    },
+    {
+      "number": 190,
+      "audioFile": "audio/episode_001/res_190.wav",
+      "audioDurationMs": 15456,
+      "startFrame": 16152,
+      "durationInFrames": 479,
+      "effect": null,
+      "speakerId": 13
+    },
+    {
+      "number": 197,
+      "audioFile": "audio/episode_001/res_197.wav",
+      "audioDurationMs": 12075,
+      "startFrame": 16631,
+      "durationInFrames": 377,
+      "effect": null,
+      "speakerId": 13
+    },
+    {
+      "number": 204,
+      "audioFile": "audio/episode_001/res_204.wav",
+      "audioDurationMs": 17525,
+      "startFrame": 17008,
+      "durationInFrames": 541,
+      "effect": "redtext",
+      "speakerId": 13
+    },
+    {
+      "number": 211,
+      "audioFile": "audio/episode_001/res_211.wav",
+      "audioDurationMs": 19168,
+      "startFrame": 17549,
+      "durationInFrames": 590,
+      "effect": null,
+      "speakerId": 13
+    },
+    {
+      "number": 218,
+      "audioFile": "audio/episode_001/res_218.wav",
+      "audioDurationMs": 14795,
+      "startFrame": 18139,
+      "durationInFrames": 459,
+      "effect": null,
+      "speakerId": 13
+    },
+    {
+      "number": 225,
+      "audioFile": "audio/episode_001/res_225.wav",
+      "audioDurationMs": 20096,
+      "startFrame": 18598,
+      "durationInFrames": 618,
+      "effect": null,
+      "speakerId": 13
+    },
+    {
+      "number": 234,
+      "audioFile": "audio/episode_001/res_234.wav",
+      "audioDurationMs": 12736,
+      "startFrame": 19216,
+      "durationInFrames": 397,
+      "effect": null,
+      "speakerId": 13
+    },
+    {
+      "number": 241,
+      "audioFile": "audio/episode_001/res_241.wav",
+      "audioDurationMs": 11541,
+      "startFrame": 19613,
+      "durationInFrames": 361,
+      "effect": null,
+      "speakerId": 13
+    },
+    {
+      "number": 247,
+      "audioFile": "audio/episode_001/res_247.wav",
+      "audioDurationMs": 13888,
+      "startFrame": 19974,
+      "durationInFrames": 432,
+      "effect": null,
+      "speakerId": 13
+    },
+    {
+      "number": 253,
+      "audioFile": "audio/episode_001/res_253.wav",
+      "audioDurationMs": 10731,
+      "startFrame": 20406,
+      "durationInFrames": 337,
+      "effect": null,
+      "speakerId": 13
+    },
+    {
+      "number": 260,
+      "audioFile": "audio/episode_001/res_260.wav",
+      "audioDurationMs": 12725,
+      "startFrame": 20743,
+      "durationInFrames": 471,
+      "effect": null,
+      "speakerId": 13
+    }
+  ]
+}
